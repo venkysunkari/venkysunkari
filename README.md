@@ -58,8 +58,3 @@
 - **Tech Stack:** Python, Regression, Decision Tree
 - **Highlights:** Built a Decision Tree model achieving 98% prediction accuracy, employing cross-validation and confusion matrix analysis.
 ---
-### 📜 Certifications:
-- **Azure Data Scientist Associate (DP-100)** - Microsoft, June 2024
-- **PG Diploma in Software Development** - UpGrad, July 2023
-- **Applied Data Science with Python (Level 2)** - IBM, April 2021
----
