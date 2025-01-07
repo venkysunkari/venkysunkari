@@ -38,9 +38,7 @@
 - **Web Technologies:** React, Node.js, Angular, Django, Spring Boot
 - **Databases:** SQL, PostgreSQL, MongoDB
 - **Cloud & Tools:** AWS, Azure, Docker, Kubernetes, Git, Jira
-
-#### **Specializations**:
-- REST API Development, Machine Learning, Agile Methodologies
+- **Specializations:** REST API Development, Machine Learning, Agile Methodologies
 
 ---
 
@@ -56,11 +54,9 @@
 ---
 
 ### 🌟 Featured Projects:
-
 #### **Farmers to Consumers (F2C)**
 - **Tech Stack:** React.js, Node.js, MongoDB
 - **Highlights:** Improved farmers' profit margins by 40% and reduced transaction times by 30% with optimized asynchronous operations and caching.
-
 #### **Diabetes Prediction using Machine Learning**
 - **Tech Stack:** Python, Regression, Decision Tree
 - **Highlights:** Built a Decision Tree model achieving 98% prediction accuracy, employing cross-validation and confusion matrix analysis.
