@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Venkataramana+Sunkari;" />
 </h1>
 
-<h3 align="center" style="color: red;">🔭 Open to Software Engineer Roles</h3>
+<h3 align="center" style="color: red;">🚀 Exploring Opportunities in Software Engineering
+💡 Dedicated to creating scalable, innovative, and user-focused software solutions.</h3>
 
 ---
 
