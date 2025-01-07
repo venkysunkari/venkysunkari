@@ -30,6 +30,7 @@
      <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
+
 ---
 ### ⚒️ Technical Skills:
 - **Programming Languages:** C, C++, Python, Java, JavaScript
@@ -37,6 +38,7 @@
 - **Databases:** SQL, PostgreSQL, MongoDB
 - **Cloud & Tools:** AWS, Azure, Docker, Kubernetes, Git, Jira
 - **Specializations:** REST API Development, Machine Learning, Agile Methodologies
+
 ---
 ### 📊 GitHub Contributions and Activity:
 <div align="center">
@@ -45,6 +47,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=venkysunkari&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
 ---
 ### 🌟 Featured Projects:
 #### **Farmers to Consumers (F2C)**
