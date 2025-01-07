@@ -9,17 +9,11 @@
 ---
 
 ### 👨‍💻 About Me:
-
 - 🎓 Pursuing a **Master's in Computer Science** at the University of Central Florida, GPA: 4.00/4.00, expected May 2025.
-
 - 💻 **Current Software Engineering Intern at FamFund**, building scalable back-end systems using **Node.js** and **PostgreSQL** and deploying with **AWS** for financial inclusivity.
-
 - 🌱 Actively honing skills in **React.js**, **Node.js**, and **Data Structures & Algorithms**, solving complex problems on **LeetCode** and **GeeksforGeeks**.
-
 - 👨‍💻 Previous roles at **StartHub**, **Persistent Systems**, and **Diabsolut Technology**, showcasing expertise in **full-stack development**, **Spring Boot**, **React**, and **Salesforce**.
-
 - 🏆 Certifications: **Azure Data Scientist Associate (DP-100)**, **PG Diploma in Software Development (UpGrad)**, and **Applied Data Science with Python (IBM)**.
-
 ### 📫 Let's Connect:
 
 <div align="center"> 
