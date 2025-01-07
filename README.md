@@ -34,14 +34,10 @@
 ---
 
 ### ⚒️ Technical Skills:
-
-#### **Programming Languages**:
-- **Proficient:** C, C++, Python, Java, JavaScript
+- **Programming Languages:** C, C++, Python, Java, JavaScript
 - **Web Technologies:** React, Node.js, Angular, Django, Spring Boot
 - **Databases:** SQL, PostgreSQL, MongoDB
-
-#### **Cloud & Tools**:
-- AWS, Azure, Docker, Kubernetes, Git, Jira
+- **Cloud & Tools:** AWS, Azure, Docker, Kubernetes, Git, Jira
 
 #### **Specializations**:
 - REST API Development, Machine Learning, Agile Methodologies
