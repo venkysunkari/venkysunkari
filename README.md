@@ -8,15 +8,14 @@
 <h5 align="center" style="color: red;">💡 Dedicated to creating scalable, innovative, and user-focused software solutions.</h5>
 
 ---
-
 ### 👨‍💻 About Me:
 - 🎓 Pursuing a **Master's in Computer Science** at the University of Central Florida, GPA: 4.00/4.00, set to graduate in May 2025.
 - 💻 **Current Software Engineering Intern at FamFund**, building scalable back-end systems using **Node.js** and **PostgreSQL** and deploying with **AWS** for financial inclusivity.
 - 🌱 Actively honing skills in **React.js**, **Node.js**, and **Data Structures & Algorithms**, solving complex problems on **LeetCode** and **GeeksforGeeks**.
 - 👨‍💻 Previous roles at **StartHub**, **Persistent Systems**, and **Diabsolut Technology**, showcasing expertise in **full-stack development**, **Spring Boot**, **React**, and **Salesforce**.
 - 🏆 Certifications: **Azure Data Scientist Associate (DP-100)**, **PG Diploma in Software Development (UpGrad)**, and **Applied Data Science with Python (IBM)**.
-### 📫 Let's Connect:
 
+### 📫 Let's Connect:
 <div align="center"> 
   <a href="mailto:venkysunkari549@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,7 +30,6 @@
      <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
-
 ---
 ### ⚒️ Technical Skills:
 - **Programming Languages:** C, C++, Python, Java, JavaScript
@@ -40,16 +38,13 @@
 - **Cloud & Tools:** AWS, Azure, Docker, Kubernetes, Git, Jira
 - **Specializations:** REST API Development, Machine Learning, Agile Methodologies
 ---
-
 ### 📊 GitHub Contributions and Activity:
-
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=venkysunkari&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=venkysunkari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=venkysunkari&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 ---
 ### 🌟 Featured Projects:
 #### **Farmers to Consumers (F2C)**
