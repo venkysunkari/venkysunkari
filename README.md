@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 Pursuing a **Master's in Computer Science** at the University of Central Florida, GPA: 4.00/4.00, expected May 2025.
+- 🎓 Pursuing a **Master's in Computer Science** at the University of Central Florida, GPA: 4.00/4.00, set to graduate in May 2025.
 - 💻 **Current Software Engineering Intern at FamFund**, building scalable back-end systems using **Node.js** and **PostgreSQL** and deploying with **AWS** for financial inclusivity.
 - 🌱 Actively honing skills in **React.js**, **Node.js**, and **Data Structures & Algorithms**, solving complex problems on **LeetCode** and **GeeksforGeeks**.
 - 👨‍💻 Previous roles at **StartHub**, **Persistent Systems**, and **Diabsolut Technology**, showcasing expertise in **full-stack development**, **Spring Boot**, **React**, and **Salesforce**.
@@ -32,14 +32,12 @@
 </div>
 
 ---
-
 ### ⚒️ Technical Skills:
 - **Programming Languages:** C, C++, Python, Java, JavaScript
 - **Web Technologies:** React, Node.js, Angular, Django, Spring Boot
 - **Databases:** SQL, PostgreSQL, MongoDB
 - **Cloud & Tools:** AWS, Azure, Docker, Kubernetes, Git, Jira
 - **Specializations:** REST API Development, Machine Learning, Agile Methodologies
-
 ---
 
 ### 📊 GitHub Contributions and Activity:
@@ -52,7 +50,6 @@
 </div>
 
 ---
-
 ### 🌟 Featured Projects:
 #### **Farmers to Consumers (F2C)**
 - **Tech Stack:** React.js, Node.js, MongoDB
@@ -60,12 +57,9 @@
 #### **Diabetes Prediction using Machine Learning**
 - **Tech Stack:** Python, Regression, Decision Tree
 - **Highlights:** Built a Decision Tree model achieving 98% prediction accuracy, employing cross-validation and confusion matrix analysis.
-
 ---
-
 ### 📜 Certifications:
 - **Azure Data Scientist Associate (DP-100)** - Microsoft, June 2024
 - **PG Diploma in Software Development** - UpGrad, July 2023
 - **Applied Data Science with Python (Level 2)** - IBM, April 2021
-
 ---
