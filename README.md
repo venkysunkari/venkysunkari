@@ -30,12 +30,93 @@
 </div>
 
 ---
-### ⚒️ Technical Skills:
+### ⚒️ Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> :
 - **Programming Languages:** C, C++, Python, Java, JavaScript
 - **Web Technologies:** React, Node.js, Angular, Django, Spring Boot
 - **Databases:** SQL, PostgreSQL, MongoDB
 - **Cloud & Tools:** AWS, Azure, Docker, Kubernetes, Git, Jira
 - **Specializations:** REST API Development, Machine Learning, Agile Methodologies
+<p align="center">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+    alt="Git"
+    width="40"
+    height="36"
+/></a>
+<a
+  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  target="_blank"
+  rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+    alt="JavaScript"
+    width="40"
+    height="36"
+/></a>
+<a
+  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+    alt="HTML5"
+    width="40"
+    height="36"
+/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+    alt="React"
+    width="40"
+    height="36"
+/></a>
+
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
+    alt="Angular"
+    width="40"
+    height="36" /></a
+><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+    alt="CSS3"
+    width="40"
+    height="36" /></a
+><a href="https://redux.js.org/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+    alt="Redux"
+    width="40"
+    height="36" /></a
+><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+    alt="NodeJS"
+    width="40"
+    height="36" /></a
+><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+    alt="PostgreSQL"
+    width="40"
+    height="36" /></a
+><a href="https://www.docker.com/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+    alt="Docker"
+    width="40"
+    height="36" /></a
+><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg"
+    alt="Amazon Web Services"
+    width="40"
+    height="36" /></a
+>
+</p>
 
 ---
 ### 📊 GitHub Contributions and Activity:
