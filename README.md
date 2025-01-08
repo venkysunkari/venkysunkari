@@ -6,12 +6,14 @@
 <h5 align="center" style="color: red;">💡 Dedicated to creating scalable, innovative, and user-focused software solutions.</h5>
 
 ---
-### 👨‍💻 About Me:
-- 🎓 Pursuing a **Master's in Computer Science** at the University of Central Florida, GPA: 4.00/4.00, set to graduate in May 2025.
-- 💻 **Current Software Engineering Intern at FamFund**, building scalable back-end systems using **Node.js** and **PostgreSQL** and deploying with **AWS** for financial inclusivity.
-- 🌱 Actively honing skills in **React.js**, **Node.js**, and **Data Structures & Algorithms**, solving complex problems on **LeetCode** and **GeeksforGeeks**.
-- 👨‍💻 Previous roles at **StartHub**, **Persistent Systems**, and **Diabsolut Technology**, showcasing expertise in **full-stack development**, **Spring Boot**, **React**, and **Salesforce**.
-- 🏆 Certifications: **Azure Data Scientist Associate (DP-100)**, **PG Diploma in Software Development (UpGrad)**, and **Applied Data Science with Python (IBM)**.
+### About Me 👋
+- 🎓 Master's in Computer Science at UCF (GPA: 4.0) | Graduating May 2025
+- 💻 Software Engineering Intern @ FamFund | Building scalable systems with Node.js, PostgreSQL, and AWS to drive financial inclusivity
+- 🌱 Passionate about React.js, Node.js, and mastering DSA | Solving problems on LeetCode & GeeksforGeeks
+- 👨‍💻 Previous experience at StartHub, Persistent Systems, and Diabsolut Technology | Expertise in full-stack development, Spring Boot, React, and Salesforce
+- 🏆 Certified in Azure Data Science (DP-100), Software Development (UpGrad), and Data Science with Python (IBM)
+
+🚀 Always excited to learn, build, and contribute!
 
 ### 📫 Let's Connect:
 <div align="center"> 
