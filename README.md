@@ -9,10 +9,9 @@
 ### About Me 👋
 - 🎓 Master's in Computer Science at UCF (GPA: 4.0) | Graduating May 2025
 - 💻 Software Engineering Intern @ FamFund | Building scalable systems with Node.js, PostgreSQL, and AWS to drive financial inclusivity
-- 🌱 Passionate about React.js, Node.js, and mastering DSA | Solving problems on LeetCode & GeeksforGeeks
+- 🌱 Passionate about React.js, Node.js, and mastering DSA | Solving problems on LeetCode
 - 👨‍💻 Previous experience at StartHub, Persistent Systems, and Diabsolut Technology | Expertise in full-stack development, Spring Boot, React, and Salesforce
 - 🏆 Certified in Azure Data Science (DP-100), Software Development (UpGrad), and Data Science with Python (IBM)
-
 🚀 Always excited to learn, build, and contribute!
 
 ### 📫 Let's Connect:
