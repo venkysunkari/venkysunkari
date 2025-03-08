@@ -5,7 +5,7 @@
 <h3 align="center" style="color: red;">🚀 Exploring Opportunities in Software Engineering <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 40px></picture></h3>
 <h5 align="center" style="color: red;">💡 Dedicated to creating scalable, innovative, and user-focused software solutions.</h5>
 
-------
+-------
 ### About Me 👋
 - 🎓 Master's in Computer Science at UCF | Graduating May 2025
 - 💻 Software Engineering Intern @ FamFund | Building scalable systems with Node.js, PostgreSQL, and AWS to drive financial inclusivity
